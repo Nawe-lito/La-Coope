@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Duplet Regular';
+  src: url('./assets/fonts/Duplet-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Duplet Semibold';
+  src: url('./assets/fonts/Duplet-Semibold.otf');
+}
+
+@font-face {
+  font-family: 'Duplet Thin';
+  src: url('./assets/fonts/Duplet-Thin.otf');
+}
+
+@font-face {
+  font-family: 'Galano Grotesque Alt Black';
+  src: url('./assets/fonts/GalanoGrotesqueAltBlack.otf');
+}
+
+.naranja-coope {
+    color: #EF8118;
+  }
+
+.seccion {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+
+body {
+  font-family: 'Duplet Regular';
+}
