@@ -17,7 +17,7 @@
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: hsla(29, 87%, 52%, 0.726);
+    background: hsla(29, 87%, 52%, 0.602);
     transition: opacity 0.25s ease;
     text-align: center;
   }

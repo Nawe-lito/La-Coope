@@ -12,14 +12,14 @@ video {
     font-size: 9em;
     color: rgb(255, 255, 255);
     transform: translateY(160%);
-    font-family: 'Galano Grotesque Alt Black';
+    font-family: 'Duplet Extrabold';
   }
   
   .titulo2 {
     font-size: 7em;
     color: #EF8118;
     transform: translatey(170%);
-    font-family: 'Galano Grotesque Alt Black';
+    font-family: 'Duplet Extrabold';
   }
   
   @media screen and (max-width: 992px) {

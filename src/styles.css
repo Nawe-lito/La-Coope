@@ -9,13 +9,16 @@
 }
 
 @font-face {
-  font-family: 'Duplet Thin';
-  src: url('./assets/fonts/Duplet-Thin.otf');
+  font-family: 'Duplet Extrabold';
+  src: url('./assets/fonts/Duplet-Extrabold.otf');
 }
 
-@font-face {
-  font-family: 'Galano Grotesque Alt Black';
-  src: url('./assets/fonts/GalanoGrotesqueAltBlack.otf');
+body {
+  font-family: 'Duplet Regular';
+}
+
+.subtitulo {
+  font-family: 'Duplet Extrabold';
 }
 
 .naranja-coope {
@@ -24,9 +27,6 @@
 
 .seccion {
   padding-top: 8em;
-  padding-bottom: 8em;
+  padding-bottom: 5em;
 }
 
-body {
-  font-family: 'Duplet Regular';
-}
