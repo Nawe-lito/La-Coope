@@ -17,12 +17,12 @@
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: hsla(29, 87%, 52%, 0.602);
+    background: hsla(29, 87%, 52%, 0.51);
     transition: opacity 0.25s ease;
     text-align: center;
   }
   #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-category {
-    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: 'Duplet Regular';
     font-size: 0.85rem;
     font-weight: 600;
     text-transform: uppercase;

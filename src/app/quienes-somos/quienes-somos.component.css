@@ -11,6 +11,13 @@
 .team-member img {
     width: 14rem;
     height: 14rem;
+    border: 0.5rem solid #212529;
+    transition: all 500ms ease-out;
+}
+
+.team-member:hover > img{
+    width: 16rem;
+    height: 16rem;
     border: 0.5rem solid #EF8118;
 }
 
@@ -30,4 +37,14 @@
     border-radius: 1.5em;
     text-align: center;
     line-height: 1.42857;
+}
+
+.filtro-imagen img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.filtro-imagen:hover > img{
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
 }
